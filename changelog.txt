@@ -1,0 +1,13 @@
+# Novita' per gli utenti, mostrate dal display dopo l'aggiornamento e nel Portal (pagina Novita').
+# Formato: VERSIONE|SCHEDE|testo  -  una voce per riga, versioni piu' recenti in alto.
+# SCHEDE: * = tutte, oppure elenco tra s3-4, 7b, p4 (es. 7b,p4).
+# Testo breve e senza termini tecnici; le correzioni interne non vanno qui.
+# La VERSIONE deve essere uguale a version.txt del progetto firmware.
+
+2026.11.18.3|*|Dopo ogni aggiornamento il display ti mostra le novità, come questa
+2026.11.18.1|*|Il PIN serve solo per modificare i dati dell'impianto o fare il reset: Wi-Fi, scena e luminosità restano libere
+2026.11.18.1|7b,p4|La scena scelta nelle Impostazioni compare subito nella schermata principale
+2026.11.17.1|7b|Scena: passaggio più fluido alla vista notturna
+2026.11.16.2|7b,p4|Nuova vista Scena in 3D nella schermata principale, da scegliere nelle Impostazioni
+2026.11.15.2|*|Schermata Impostazioni riorganizzata, con le stesse sezioni su tutti i display
+2026.11.15.1|s3-4,7b|Corretto lo spostamento dell'immagine sullo schermo
