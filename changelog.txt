@@ -4,6 +4,7 @@
 # Testo breve e senza termini tecnici; le correzioni interne non vanno qui.
 # La VERSIONE deve essere uguale a version.txt del progetto firmware.
 
+2026.11.20.1|p4|La schermata principale torna alla grafica di prima
 2026.11.18.3|*|Dopo ogni aggiornamento il display ti mostra le novità, come questa
 2026.11.18.1|*|Il PIN serve solo per modificare i dati dell'impianto o fare il reset: Wi-Fi, scena e luminosità restano libere
 2026.11.18.1|7b,p4|La scena scelta nelle Impostazioni compare subito nella schermata principale
