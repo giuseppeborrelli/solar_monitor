@@ -1,9 +1,10 @@
 # Novita' per gli utenti, mostrate dal display dopo l'aggiornamento e nel Portal (pagina Novita').
 # Formato: VERSIONE|SCHEDE|testo  -  una voce per riga, versioni piu' recenti in alto.
-# SCHEDE: * = tutte, oppure elenco tra s3-4, 7b, p4 (es. 7b,p4).
+# SCHEDE: * = tutte, oppure elenco tra s3-4, 7b, p4 (es. 7b,p4); portal = solo Portal (i display la ignorano).
 # Testo breve e senza termini tecnici; le correzioni interne non vanno qui.
 # La VERSIONE deve essere uguale a version.txt del progetto firmware.
 
+2026.11.20.3|portal|Accesso: nuova opzione «Ricorda su questo dispositivo per 30 giorni» per non reinserire il codice di verifica
 2026.11.20.1|p4|La schermata principale torna alla grafica di prima
 2026.11.18.3|*|Dopo ogni aggiornamento il display ti mostra le novità, come questa
 2026.11.18.1|*|Il PIN serve solo per modificare i dati dell'impianto o fare il reset: Wi-Fi, scena e luminosità restano libere
